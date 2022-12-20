@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-weight: sans-serif;
+}
+
+nav {
+    background: #234465;
+    text-align: center;
+    padding: 15px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
