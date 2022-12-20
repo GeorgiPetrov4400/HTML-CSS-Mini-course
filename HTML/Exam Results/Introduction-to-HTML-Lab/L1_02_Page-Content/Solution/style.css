@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    padding: 0;
+    background: #ccc;
+}
+
+section {
+    margin-left: 20px;
+    text-align: left;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+header > p {
+    font-style: italic;
+}
+
+article > p {
+    font-size: 17px;
+}
