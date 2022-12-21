@@ -1,0 +1,11 @@
+article p {
+    background: yellow;
+}
+
+div p {
+    background: yellowgreen;
+}
+
+footer p {
+    background: #ccc;
+}
