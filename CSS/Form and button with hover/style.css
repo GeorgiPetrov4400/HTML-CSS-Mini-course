@@ -1,0 +1,26 @@
+input[type="submit"] {
+    background: light grey;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+input[type="submit"]:hover {
+    background: lightblue;
+    color: white;
+    border: 1px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+button {
+    background: red;
+    color: white;
+}
+
+button:hover {
+    background: lightblue;
+    color: black;
+    cursor: pointer;
+}
+
