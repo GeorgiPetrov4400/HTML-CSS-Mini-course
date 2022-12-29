@@ -1,0 +1,21 @@
+form {
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding-left: 10px;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+label {
+    margin-left: 1%;
+}
+
