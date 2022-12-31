@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    width: 200px;
+    border: 1px solid #e3e3e3;
+    font-size: 14px;
+    line-height: 20px;
+    background: #f5f5f5;
+}
+
+/* .nav-item {
+    list-style-type: none;
+} */
+li {
+    list-style-type: none;
+    line-height: 25px;
+    margin-left: -15px;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #c83025;
+}
+
+i {
+    width: 1.14em;
+    padding-right: 0.28em;
+}
+
+.buttons-ctr .shopping,
+.info,
+.delete {
+    margin-top: 40px;
+    padding: 4px 12px;
+    line-height: 20px;
+    color: #ffffff;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.buttons-ctr .shopping {
+    background: #83a94c;
+}
+
+.buttons-ctr .info {
+    background: #008ed0;
+}
+
+.buttons-ctr .delete {
+    background: #cc4036;
+}
